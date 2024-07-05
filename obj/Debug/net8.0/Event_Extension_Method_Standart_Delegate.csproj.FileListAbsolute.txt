@@ -12,3 +12,18 @@ C:\Users\Ahmed_hb29\source\repos\Event_Extension_Method_Standart_Delegate\Event_
 C:\Users\Ahmed_hb29\source\repos\Event_Extension_Method_Standart_Delegate\Event_Extension_Method_Standart_Delegate\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.pdb
 C:\Users\Ahmed_hb29\source\repos\Event_Extension_Method_Standart_Delegate\Event_Extension_Method_Standart_Delegate\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.genruntimeconfig.cache
 C:\Users\Ahmed_hb29\source\repos\Event_Extension_Method_Standart_Delegate\Event_Extension_Method_Standart_Delegate\obj\Debug\net8.0\ref\Event_Extension_Method_Standart_Delegate.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\bin\Debug\net8.0\Event_Extension_Method_Standart_Delegate.exe
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\bin\Debug\net8.0\Event_Extension_Method_Standart_Delegate.deps.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\bin\Debug\net8.0\Event_Extension_Method_Standart_Delegate.runtimeconfig.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\bin\Debug\net8.0\Event_Extension_Method_Standart_Delegate.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\bin\Debug\net8.0\Event_Extension_Method_Standart_Delegate.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.sourcelink.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\refint\Event_Extension_Method_Standart_Delegate.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\Event_Extension_Method_Standart_Delegate.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Event\obj\Debug\net8.0\ref\Event_Extension_Method_Standart_Delegate.dll

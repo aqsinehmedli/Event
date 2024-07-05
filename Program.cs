@@ -1,8 +1,12 @@
 ﻿using Event_Extension_Method_Standart_Delegate;
+using System.Text;
 
-MyClass myClass = new MyClass();
-//string reversed = myClass.Reverse("Hello");
-//Console.WriteLine(reversed);
-string original = "Hello";
-string spaced = myClass.Space(original);
-Console.WriteLine(spaced);
+Console.Write("Enter string:");
+var str = Console.ReadLine();
+MyClass cls = new MyClass();
+Run runInstance = new Run();
+Func funcDell1 = new Func(cls.Space);
+Func funcDell2 = new Func(cls.Reverse);
+runInstance.runFunc(str, funcDell1);
+Console.WriteLine();
+runInstance.runFunc(str, funcDell2);

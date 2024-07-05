@@ -1,19 +1,24 @@
 ﻿
 namespace Event_Extension_Method_Standart_Delegate;
 
-public class MyClass
+public delegate void Func(string str);
+class MyClass
 {
-    public string Space(string str)
+    public void Space(string str)
     {
-        char[] charArray = str.ToCharArray();
-        return new string(charArray);
+        foreach (char letter in str)
+        {
+            Console.Write(letter);
+            Console.Write("_");
+        }
     }
-    public string Reverse(string str)
+    public void Reverse(string str)
     {
-        char[] charArray = str.ToCharArray();
-        Array.Reverse(charArray);
-        return new string(charArray);
+        int count = str.Length;
+        for (int i = count - 1; i >= 0; i--)
+        {
+            Console.WriteLine(str[i]);
+        }
     }
-
 
 }
